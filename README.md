@@ -1,0 +1,1 @@
+Final project for CS492 - Intro to Cybersecurity. An implentation from scratch of the Shamir's Secret Sharing Algorithm and the TEAS encryption method. Uses AWT and Swing for UI. Completed in Spring 2022 and received a 97.6/100
